@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        /*
+        println("three!")
+        // println("two!")
+        println("one!")
+        // println("go!")
+        */
+        println("go!")
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4408#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 10 Apr 2022 21:34:35 UTC
+record: -1
